@@ -1,7 +1,9 @@
-### Mauricio · Robotics & Computer Vision
+### Mauricio · Cloud DevOps Engineer · Robotics & Computer Vision
 
-Robotics engineering student in Mexico. I build perception and control software for autonomous
-and industrial robots, and I test it on real hardware in competitions.
+Cloud DevOps engineer based in Mexico. During my studies I focused on machine-learning models for
+computer vision on edge devices and on general robotics: perception and control software for
+autonomous and industrial robots, tested on real hardware in competitions. I now mentor
+competition teams.
 
 **Research interests:** robot perception · 3D object localization · sensor fusion & state estimation ·
 embedded / edge ML · autonomous navigation · industrial robot automation
@@ -19,9 +21,14 @@ embedded / edge ML · autonomous navigation · industrial robot automation
 | [**Connect4**](https://github.com/NoisyScope/Connect4) | Game-playing robot | Camera calibration, minimax with α–β pruning, GPIO |
 | [**ank-ios**](https://github.com/NoisyScope/ank-ios) | Spaced-repetition learning on iOS | Swift, Rust FFI, FSRS scheduler |
 
-#### Competitions
+#### Competitions & mentoring
 
-- **IEEE Latin American Robotics Competition (LARC)**: Open Challenge, 2024–2025 (perception & state estimation)
+| Competition | Role | Highlights |
+|---|---|---|
+| **FIRST Robotics Competition**, Team LamBot 3478 | Team member, 3 seasons | |
+| **IEEE Latin American Robotics Competition (LARC)**, Mexico | Competitor 2024; mentor 2025, 2026 | 🏆 **1st place, 2024** |
+| **Minisumo robotics** | Competitor, 3 events (2024–2025) | 🏆 1st place · 🥉 3rd place |
+| **Autonomous car driving (PiCar-X)** | Competitor, then mentor of the same team (2023–2025) | 🥉 3rd place · 🥈 2nd place as mentor |
 
 #### Toolbox
 
